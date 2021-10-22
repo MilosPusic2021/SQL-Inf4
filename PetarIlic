@@ -1,0 +1,2 @@
+use MilosP2021
+select * from ucenik where prezime = 'Muzurovic'
