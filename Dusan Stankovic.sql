@@ -1,0 +1,2 @@
+USE MilosP2021
+SELECT * FROM Losa
